@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b6ea2c39-e479-4ff9-aba4-6dcc05a50333",
+    "site": "example.com",
+    "username": "alice",
+    "password": "vhfuhw123"
+  },
+  {
+    "id": "caac5dc7-7c4e-464c-9917-72814b259f81",
+    "site": "site.com",
+    "username": "abcd",
+    "password": "1234"
+  },
+  {
+    "id": "f04da9cf-2ab5-4794-948e-6e15d0dfb889",
+    "site": "test.com",
+    "username": "bob",
+    "password": "sz123"
+  },
+  {
+    "id": "f2821273-4b62-4e91-88a4-60ebea5a76a3",
+    "site": "test.com",
+    "username": "bob",
+    "password": "sz123"
+  },
+  {
+    "id": "9764a8b9-be90-450c-8897-9a8c5d85a0d5",
+    "site": "abc.com",
+    "username": "allenn",
+    "password": "gns"
+  },
+  {
+    "id": "269d10e4-873b-44ac-9e0a-48312fd587f6",
+    "site": "hi",
+    "username": "hi",
+    "password": "kl"
+  },
+  {
+    "id": "7409c7cb-d32a-4087-9ca4-04aa1a929471",
+    "site": "conteneo",
+    "username": "1by22cs017",
+    "password": "1234"
+  }
+]
